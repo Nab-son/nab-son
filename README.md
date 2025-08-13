@@ -1,12 +1,20 @@
-## About me 👋
 
-Hi, I'm Nabil BOUROU a mobile developper Fullstack. Welcome to my profile
+## Hi 👋, I'm Nabil BOUROU a mobile developper Fullstack. Welcome to my profile
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://cdn.prod.website-files.com/63a9fb94e473f36dbe99c1b1/65fdf4c36f9140eace6d96d0_14dQxKOd3i0TNz8TwrX8FVZo58eXDj02bEruidOoaug.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://cdn.prod.website-files.com/63a9fb94e473f36dbe99c1b1/65fdf25c41e900427d452d2c_xKH3AWTFGI0jKvlvIWrX2rEAM9eBuTM0Kn09jpKVA0w.svg">
+  <img
+    alt="Illustration isométrique d’un développeur"
+    src="https://cdn.prod.website-files.com/63a9fb94e473f36dbe99c1b1/65fdf25c41e900427d452d2c_xKH3AWTFGI0jKvlvIWrX2rEAM9eBuTM0Kn09jpKVA0w.svg"
+    width="400"
+    height="400">
 </picture>
+
 
                       | Rank |  Languages    |
                       |-----:|---------------|
